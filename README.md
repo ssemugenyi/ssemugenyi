@@ -1,5 +1,5 @@
 ### :man_technologist: About Me :
-I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda
+I'm a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda
 
 ### :hammer_and_wrench: Languages and Tools :
 
