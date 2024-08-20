@@ -1,5 +1,6 @@
 ### :man_technologist: About Me :
 I'm a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda
+Motivated and skilled frontend Developer with experience in developing responsive web applications.
 
 ### :hammer_and_wrench: Some Tools I Have Used and Learned Include :
 
