@@ -6,6 +6,8 @@
 
 * Currently learning new technologies and having fun I love coding the best solutions to world-class problems in all ways I can,
 
+* How to reach me <a>ssemugenyiisaac2@gmail.com</a>
+
 ### :hammer_and_wrench: Some Tools I Have Used and Learned Include :
 
 <div>
