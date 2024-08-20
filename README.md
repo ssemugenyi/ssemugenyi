@@ -1,7 +1,7 @@
 ### :man_technologist: About Me :
 I'm a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Some Tools I Have Used and Learned Include :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
