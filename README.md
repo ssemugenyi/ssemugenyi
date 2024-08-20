@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 
-#### Hi, It is Isaac here
+#### Hi, I am Isaac
  
 ##### I'm a passionate frontend Developer from Uganda with experience in developing responsive web applications, I deliver pixel-perfect designs with clean and well-tested code from any Xd or Figma file provided.
 
