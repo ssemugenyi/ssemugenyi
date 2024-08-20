@@ -1,6 +1,8 @@
 ### :man_technologist: About Me :
+
+#### Hi, It is Isaac here
  
-#### I'm a passionate frontend Developer from uganda with experience in developing responsive web applications, I deliver pixel-perfect designs with clean and well-tested code from any Xd or Figma file provided.
+##### I'm a passionate frontend Developer from uganda with experience in developing responsive web applications, I deliver pixel-perfect designs with clean and well-tested code from any Xd or Figma file provided.
 
 ### :hammer_and_wrench: Some Tools I Have Used and Learned Include :
 
