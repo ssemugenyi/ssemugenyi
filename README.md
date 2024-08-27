@@ -8,6 +8,8 @@
 
 * How to reach me <a href="mailto:ssemugenyiisaac2@gmail.com">ssemugenyiisaac2@gmail.com</a>
 
+![](https://komarev.com/ghpvc/?username=ssemugenyi&color=orange)
+
 ### :hammer_and_wrench: Some Tools I Have Used and Learned Include :
 
 <div>
