@@ -7,7 +7,7 @@
 * Currently learning new technologies and having fun I love coding the best solutions to world-class problems in all ways I can,
 
 * How to reach me <a href="mailto:ssemugenyiisaac2@gmail.com">ssemugenyiisaac2@gmail.com</a>
-* Neeed more details? visit  <a href="https://ssemugenyi.github.io/portfolio-website/#">ssemugenyi.github.io/portfolio-website/</a>
+* Need more details? visit  <a href="https://ssemugenyi.github.io/portfolio-website/#">ssemugenyi.github.io/portfolio-website/</a>
 
 ![](https://komarev.com/ghpvc/?username=ssemugenyi&color=orange)
 
