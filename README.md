@@ -2,7 +2,7 @@
 
 ### Hi, I am Isaac
  
-#### I'm a passionate frontend Developer from Uganda with experience in developing responsive web applications, I deliver pixel-perfect designs with clean and well-tested code from any Xd or Figma file provided.
+#### I'm a passionate frontend engineer from Uganda with experience in developing responsive web applications, I deliver pixel-perfect designs with clean and well-tested code from any Xd or Figma file provided.
 
 * Currently learning new technologies and having fun I love coding the best solutions to world-class problems in all ways I can,
 
